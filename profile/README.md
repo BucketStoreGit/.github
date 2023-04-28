@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Bucket Store GitHub Repository
+---
+* 본 저장소는 (주)버킷스토어의 자산이므로 허가없는 외부 반출을 금지합니다
+* 저장소에 접근하는 계정들은 Multi Factor Authentication을 반드시 설정해주세요
